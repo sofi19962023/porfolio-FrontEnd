@@ -1,5 +1,4 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
 import { LogoArgProgramaComponent } from './logo-arg-programa.component';
 
 describe('LogoArgProgramaComponent', () => {
