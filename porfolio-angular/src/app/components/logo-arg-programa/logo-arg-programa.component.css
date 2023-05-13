@@ -1,11 +1,12 @@
 .container{
-    display: flex;
+    display:flex;
     justify-content: space-between;
-    align-items: center;
-
+    align-items:center;
+    ;
+    
 }
 .redes{
-    margin-right: 0.8em;
+    margin-right: 0.5em;
 }
 #app-logo-arg-programa { width: 180px;
 }
@@ -13,12 +14,12 @@ img{
     width: 50px;
 }
 .btn{
-    border-width: medium;
+    border: mediumslateblue;
 }
 
 
 /*---Para la vista de celular---*/
-@media (max-width: 601px){
+@media (max-width: 576px){
     .container{
         flex-direction: column;
     }
@@ -28,6 +29,6 @@ img{
         align-items: center;
     }
     .redes img{
-        margin: 0.1em;
+        margin: 0.2em;
     }
 }
