@@ -1,5 +1,9 @@
 img{
     width: 100%;
-    height: 500px;
-    ;
+    height: 595px;
+    
+}
+/*---Para la vista de celular---*/
+@media (max-width: 601px){
+    img{height: 300px;}
 }
