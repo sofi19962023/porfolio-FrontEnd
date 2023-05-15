@@ -2,14 +2,8 @@
     padding: 30px;
     background-color:rgb(191, 149, 211);
 }
-.contenedor{
-    width: auto;
-}
-.parte1, .parte2{
-    display: inline-block;
-    text-align: justify;
-}
-.img-proyecto{
-    box-shadow: 10px 10px 30px black;
-    box-shadow: ejeX ejeY difumasion color
+
+.carousel {
+    margin-bottom: 0rem;
+ 
 }
