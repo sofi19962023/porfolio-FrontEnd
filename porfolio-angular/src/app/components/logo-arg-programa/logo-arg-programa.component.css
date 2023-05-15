@@ -1,14 +1,12 @@
 .container{
     display:flex;
     justify-content: space-between;
-    align-items:center;
-    ;
-    
+    align-items:center;   
 }
 .redes{
-    margin-right: 0.5em;
+    margin-right: 0.2em;
 }
-#app-logo-arg-programa { width: 180px;
+#app-logo-arg-programa {width: 180px;
 }
 img{
     width: 50px;

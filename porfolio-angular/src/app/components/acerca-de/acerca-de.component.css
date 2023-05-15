@@ -1,6 +1,5 @@
 .row{
     padding: 30px;
-  
 }
 div{
     background-color:rgb(191, 149, 211);
@@ -9,7 +8,6 @@ div{
 /*Estilo de la foto de perfil*/
 @media (min-width:576px){
     #perfilfoto{
-       
         width: 100%;
         border-radius: 10%;
         box-shadow: 3px 3px 3px ghostwhite;
@@ -19,7 +17,7 @@ div{
 }
     @media (max-width:576px){
         #perfilfoto{
-            width: 60%;
+            width: 75%;
             border-radius: 10%;
             box-shadow: 3px 3px 3px ghostwhite;
             left:27%;
